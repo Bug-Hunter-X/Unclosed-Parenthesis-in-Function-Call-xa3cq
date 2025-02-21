@@ -1,0 +1,1 @@
+This repository contains a simple Python example demonstrating a common yet easily missed coding error: an unclosed parenthesis in a function call.  The bug results in a `SyntaxError`. The solution provides the corrected code with proper parenthesis closure.
